@@ -1,0 +1,1 @@
+import{ab as e,G as a,H as t,E as c}from"./framework-251de721.js";const o={},s=c("p",null,"javaweb javawebjavawebjavaweb",-1),_=[s];function n(r,l){return a(),t("div",null,_)}const b=e(o,[["render",n],["__file","javaweb01.html.vue"]]);export{b as default};
